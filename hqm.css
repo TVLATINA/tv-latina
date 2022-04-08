@@ -96,19 +96,19 @@ ul {
 
 .iconos {
     width: 148px;
-    height: 148px;
+    height: 107px;
 }
 
 @media (max-width: 768px) {
     .iconos {
         width:98px;
-        height: 98px;
+        height: 71px;
     }
 }
 
 @media (min-width: 1024px) {
     .iconos {
         width: 198px;
-        height: 198px;
+        height: 143px;
     }
 }
