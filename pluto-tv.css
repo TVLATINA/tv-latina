@@ -84,7 +84,7 @@ ul {
     border: solid turquoise 1px;
     border-radius: 5px;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
 .pie {
@@ -93,21 +93,22 @@ ul {
     text-align: center;
     color: white;
 }
+
 .iconos {
     width: 146px;
-    height: 71px;
+    height: 146px;
 }
 
 @media (max-width: 768px) {
     .iconos {
         width:96px;
-        height: 46px;
+        height: 96px;
     }
 }
 
 @media (min-width: 1024px) {
     .iconos {
         width: 196px;
-        height: 96px;
+        height: 196px;
     }
 }
