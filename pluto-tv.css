@@ -93,22 +93,21 @@ ul {
     text-align: center;
     color: white;
 }
-
 .iconos {
     width: 146px;
-    height: 146px;
+    height: 71px;
 }
 
 @media (max-width: 768px) {
     .iconos {
         width:96px;
-        height: 96px;
+        height: 46px;
     }
 }
 
 @media (min-width: 1024px) {
     .iconos {
         width: 196px;
-        height: 196px;
+        height: 96px;
     }
 }
